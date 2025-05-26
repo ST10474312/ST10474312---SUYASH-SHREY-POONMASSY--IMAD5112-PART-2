@@ -26,12 +26,16 @@ The goal of the project is to demonstrate understanding of mobile app developmen
 ### 🔹 *Welcome Screen*
 - Displays app title and description
 - "Start Quiz" button launches the quiz
+  ![image](https://github.com/user-attachments/assets/124a4c66-084d-4fe0-9e85-461816998c43)
+
 
 ### 🔹 *Question Screen*
 - Shows one question at a time from an array
 - "True" and "False" buttons for answering
 - Instant feedback displayed as "Correct!" or "Incorrect!"
 - "Next" button moves to the next question
+  ![image](https://github.com/user-attachments/assets/abbf5484-2bf0-4a42-a5c4-788cbf81eb43)
+
 
 ### 🔹 *Score Screen*
 - Shows the user’s total score out of 5
@@ -42,10 +46,15 @@ The goal of the project is to demonstrate understanding of mobile app developmen
   - "Retry" to restart the quiz
   - "Review" to see all correct answers
   - "Exit" to close the app
+    ![image](https://github.com/user-attachments/assets/3f1c8220-605e-4e9b-90cb-af4ca2789f0b)
+
+
 
 ### 🔹 *Review Screen*
 - Lists all 5 questions with their correct answers
 - "Back" button returns to the score screen
+  ![image](https://github.com/user-attachments/assets/62fa5754-1091-439d-b9d3-caa67ecf1f25)
+
 
 ---
 
